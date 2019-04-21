@@ -1,0 +1,15 @@
+{
+  "name": "dotenv-flow-demo",
+  "version": "1.0.0",
+  "description": "Testing out the dotenv-flow npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cory Newby (kvchaos)",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv-flow": "^0.3.0",
+    "signale": "^1.4.0"
+  }
+}
